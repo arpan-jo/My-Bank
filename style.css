@@ -18,13 +18,13 @@ body {
 .status {
   color: white;
   padding: 20px;
-  margin: 20px;
+  margin: 0px 20px;
   border-radius: 10px;
 }
 
 .submit {
   box-shadow: 5px 5px 10px gray;
   border-radius: 10px;
-  margin: 10px, 20px;
-  padding: 30px;
+  padding: 20px;
+  margin: 30px 20px;
 }
